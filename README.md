@@ -45,3 +45,7 @@ Some of the top-level directories include:
 - **`manifest.json`** – the Rust build this repository was last parsed against, as `{"version": 167781}`. Refreshed by a scheduled workflow that polls the game's own manifest endpoint and re-runs the extraction when the build number moves.
 
 ---
+
+## Docs
+
+`docs/` describes the code and must match it. `research/` holds dated open questions and plans.
